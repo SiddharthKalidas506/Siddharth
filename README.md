@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthkalidas506&label=Profile%20visited&color=0e75b6&style=flat" alt="siddharthkalidas506" /> </p>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 - 🔭 I’m currently working in **HashedIn technologies** 
 
 - 👨‍💻 I've previously worked in **Amazon and HCl Technology**
