@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthkalidas506&label=Profile%20visited&color=0e75b6&style=flat" alt="siddharthkalidas506" /> </p>
 
+- 🔭 I’m currently working in **HashedIn technologies** 
+
+- 👨‍💻 I've previously worked in **Amazon and HCl Technology**
+
 - 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Java, Spring, Databases, Selenium, Restassured and TypeScript,**
