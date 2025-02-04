@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-- 🔭 I’m currently working in **HashedIn technologies** 
+- 🔭 I’m currently working in **HashedIn By Deloitte** 
 
 - 👨‍💻 I've previously worked in **Amazon Ltd and HCl Technologies**
 
