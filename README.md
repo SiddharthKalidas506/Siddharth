@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **HashedIn technologies** 
 
-- 👨‍💻 I've previously worked in **Amazon Ltd and HCl Technology**
+- 👨‍💻 I've previously worked in **Amazon Ltd and HCl Technologies**
 
 - 🌱 I’m currently learning **Golang**
 
